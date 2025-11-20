@@ -3,7 +3,7 @@
 This repository tracks my daily AWS hands-on learning and projects.  
 It includes foundational notes, architecture diagrams, and Industry-level projects.
 
-## Structure
+# Structure
 • foundations/ — day-by-day notes  
 • projects/ — AWS projects
 • diagrams/ — architecture visuals  
