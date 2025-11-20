@@ -11,7 +11,8 @@ It includes foundational notes, architecture diagrams, and Industry-level projec
 ## Updates
 I post progress daily on Twitter while building in public and document my journey here too.
 
-## Connect with me  
-. Twitter/X: https://x.com/Kamal_2T0F_ 
-. LinkedIn: https://www.linkedin.com/in/kamalch22
+## Connect with me
+• Twitter: [@Kamal_2T0F_](https://x.com/Kamal_2T0F_)
+• LinkedIn: [kamalch22](https://www.linkedin.com/in/kamalch22/)
+
 
