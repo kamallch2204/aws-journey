@@ -1,3 +1,5 @@
+![AWS](https://img.shields.io/badge/AWS-Learning-orange?logo=amazonaws)
+
 # AWS Journey
 
 This repository tracks my daily AWS hands-on learning and projects.  
