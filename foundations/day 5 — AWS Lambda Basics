@@ -1,0 +1,6 @@
+Day 5 — AWS Lambda Basics
+• Learned what serverless execution is and how Lambda runs code on demand
+• Created a basic Node.js Lambda handler
+• Tested the function using the Lambda console
+• Checked CloudWatch logs (Request ID, duration, output)
+• Understood the need for an IAM execution role
