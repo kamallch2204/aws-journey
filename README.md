@@ -11,7 +11,7 @@ It includes foundational notes, architecture diagrams, and Industry-level projec
 • diagrams/ — architecture visuals  
 
 ## Updates
-I post progress daily on Twitter while building in public and document my journey here tooo.
+I post progress daily on Twitter while building in public and document my journey here too.
 
 ## Connect with me
 • Twitter: [@Kamal_2T0F_](https://x.com/Kamal_2T0F_)
