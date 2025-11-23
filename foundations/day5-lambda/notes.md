@@ -5,4 +5,4 @@
 - Learned about handler structure (`exports.handler`)
 - Tested the function using the Lambda console
 - Explored triggers (API Gateway, S3, EventBridge)
-- Saw how CloudWatch logs automatically capture output/errors
+- Saw how CloudWatch logs automatically capture output/errors.
